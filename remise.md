@@ -2,11 +2,9 @@
 
 ## Lien vers Whiteboard complété
 
-[Lien vers Whiteboard complété](#ajouter le lien ici)
-
+[Lien vers Whiteboard complété](https://cmontmorency365-my.sharepoint.com/:wb:/g/personal/2509704_cmontmorency_qc_ca/IQBFPctHNrq1TbBPmdlBt-XTAew52BLsYSaVKVItQEhTS3g?e=UzITaC)
 
 ## Équipe
 
-- Prénom Nom 1
-- Prénom Nom 2
-- ...
+- Thomas Bozelko
+- Anne-julie Labrie
